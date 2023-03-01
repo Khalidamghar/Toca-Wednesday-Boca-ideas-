@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVu572e.jpg",
+      "title": "Toca Wednesday Boca ideas 1",
+        "text_Content": "Toca Wednesday Boca is a popular event that takes place every Wednesday in Buenos Aires, Argentina. It is a celebration of the city's food and culture, and brings together locals and tourists alike to enjoy some of the best food, drinks, and music that the city has to offer. In this essay, we will explore the history of Toca Wednesday Boca, the concept behind the event, and some of the top ideas for experiencing it.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVu5uBS.jpg",
+      "title": "Toca Wednesday Boca ideas 2",
+        "text_Content": "Toca Wednesday Boca has its roots in the tradition of La Boca, a vibrant neighborhood in Buenos Aires known for its colorful architecture, tango music, and street art. The event began in 2004 as a way to showcase the neighborhood's unique character and culture, and to promote local businesses.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVu5R49.jpg",
+      "title": "Toca Wednesday Boca ideas 3",
+        "text_Content": "Initially, Toca Wednesday Boca was a small-scale event, with just a handful of restaurants and bars participating. Over time, however, it grew in popularity, and today it attracts thousands of people every week.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVu5AE7.jpg",
+      "title": "Toca Wednesday Boca ideas 4",
+        "text_Content": "One of the key features of Toca Wednesday Boca is the emphasis on street food. Many of the stalls offer traditional Argentine dishes such as choripán (a sausage sandwich), empanadas (stuffed pastries), and asado (barbecue), as well as more modern and international cuisine.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVu5YYu.jpg",
+      "title": "Toca Wednesday Boca ideas 5",
+        "text_Content": "One of the key features of Toca Wednesday Boca is the emphasis on street food. Many of the stalls offer traditional Argentine dishes such as choripán (a sausage sandwich), empanadas (stuffed pastries), and asado (barbecue), as well as more modern and international cuisine.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVu5akb.jpg",
+      "title": "Toca Wednesday Boca ideas 6",
+        "text_Content": "In addition to the food and drink, Toca Wednesday Boca also features live music performances by local musicians. Tango is a particularly popular genre, given the neighborhood's association with the dance style. There are also often street performers and other cultural activities, such as workshops on art and photography.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVu5cpj.jpg",
+      "title": "Toca Wednesday Boca ideas 7",
+        "text_Content": "One of the main draws of Toca Wednesday Boca is the street food. With so many different stalls offering a range of cuisine, it can be hard to know where to start. Some of the most popular dishes to try include:",
+        "text_Content_1": ""
 
 
 
